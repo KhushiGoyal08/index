@@ -1,4 +1,7 @@
-p{
+h1{
     font-style: italic;
     color: darksalmon;
+}
+li{
+    color: darkmagenta;
 }
